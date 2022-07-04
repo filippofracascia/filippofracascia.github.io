@@ -1,7 +1,5 @@
-@{
-  ViewData["Title"] = "Home Page";
-}
-
+<head></head>
+<body>
 <div id="container">
 <div id="stream">
 <div id="time"></div>
@@ -37,7 +35,7 @@ import { UnrealBloomPass } from 'UnrealBloomPass';
 import {GUI} from 'LilGui';
 
 const connection = new signalR.HubConnectionBuilder()
-  .withUrl("https://localhost:7192/stream")
+  .withUrl("https://filippofracascia.github.io/stream")
   .configureLogging(signalR.LogLevel.Information)
   .build();
 
@@ -225,3 +223,4 @@ function animate( time ) {
 </script>
 </div>
 </div>
+</body>
