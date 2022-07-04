@@ -35,7 +35,10 @@ import { UnrealBloomPass } from 'UnrealBloomPass';
 import {GUI} from 'LilGui';
 
 const connection = new signalR.HubConnectionBuilder()
-  .withUrl("https://filippofracascia.github.io/stream")
+  .withUrl("https://filippofracascia.github.io/stream", {
+    skipNegotiation: true,
+    transport: signalR.HttpTransportType.WebSockets
+  })
   .configureLogging(signalR.LogLevel.Information)
   .build();
 
