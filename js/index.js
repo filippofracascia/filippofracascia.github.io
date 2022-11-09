@@ -80,3 +80,24 @@ document.querySelector("button").addEventListener("click", function(){
         behavior: "smooth"
     });
 });
+
+document.querySelector("body").addEventListener("wheel", (event) => {
+
+    if(event.deltaY > 0)
+    {
+        window.scroll({
+            top: window.innerHeight,
+            left: 0,
+            behavior: "smooth"
+        })
+    }
+
+    if(event.deltaY < 0)
+    {
+        window.scroll({
+            top: -window.innerHeight,
+            left: 0,
+            behavior: "smooth"
+        })
+    }
+})
