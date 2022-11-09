@@ -72,3 +72,11 @@ function onWindowResize(){
 
 window.addEventListener( 'resize', onWindowResize, false );
 animate();
+
+document.querySelector("button").addEventListener("click", function(){
+    window.scroll({
+        top: window.innerHeight,
+        left: 0,
+        behavior: "smooth"
+    });
+});
