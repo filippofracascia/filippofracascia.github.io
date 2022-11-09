@@ -42,17 +42,18 @@ scene.add( coneLine );
 
 camera.position.z = 5;
 
-cubeLine.position.x = -1;
-sphereLine.position.x = 1;
+cubeLine.position.x = -2.5;
+sphereLine.position.x = 0;
 sphereLine.position.y = 2;
-coneLine.position.x = 2;
+coneLine.position.x = 2.5;
 coneLine.position.y = -1;
+
 
 function animate() {
     requestAnimationFrame( animate );
 
-    cubeLine.rotation.x += 0.01;
-    cubeLine.rotation.y += 0.01;
+    cubeLine.rotation.x -= 0.05;
+    cubeLine.rotation.y += 0.001;
 
     sphereLine.rotation.x -= 0.001;
     sphereLine.rotation.y -= 0.01;
