@@ -1,0 +1,27 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: #11e8bb; /* Old browsers */
+    background: -moz-radial-gradient(top, #11e8bb 0%, #8200c9 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(top, #11e8bb 0%,#8200c9 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(to bottom, #11e8bb 0%,#8200c9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    overflow: hidden;
+}
