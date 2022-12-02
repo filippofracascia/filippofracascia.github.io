@@ -18,10 +18,42 @@ html {
 }
 
 body {
-    margin-bottom: 60px;
-    background: #11e8bb; /* Old browsers */
-    background: -moz-radial-gradient(top, #11e8bb 0%, #8200c9 100%); /* FF3.6-15 */
-    background: -webkit-radial-gradient(top, #11e8bb 0%,#8200c9 100%); /* Chrome10-25,Safari5.1-6 */
-    background: radial-gradient(to bottom, #11e8bb 0%,#8200c9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: #cfd9df; /* Old browsers */
+    background: -moz-radial-gradient(center, #cfd9df 0%, #e2ebf0 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center,#cfd9df 0%, #e2ebf0 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(to center, #cfd9df 0%, #e2ebf0 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     overflow: hidden;
+
+}
+
+canvas {
+    position: absolute;
+    left: 0%;
+    top: 35%;
+    width: 400px;
+    height: 50%;
+    margin-left: -10px;
+    /* -1/2 width */
+    margin-top: -10px;
+    /* -1/2 height */
+}
+
+
+.socialsharing {
+    text-align: center;
+    a {
+        display: inline-block;
+        padding: .7em;
+        line-height: 0;
+        margin-bottom: 2em;
+    }
+
+    path {
+        fill: gray;
+    }
+
+    svg {
+        width: 24px;
+        height: 24px;
+    }
 }

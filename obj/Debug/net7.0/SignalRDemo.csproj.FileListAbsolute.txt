@@ -29,3 +29,13 @@ C:\Users\f.fracascia\repos\SignalRDemo\obj\Debug\net7.0\refint\SignalRDemo.dll
 C:\Users\f.fracascia\repos\SignalRDemo\obj\Debug\net7.0\SignalRDemo.pdb
 C:\Users\f.fracascia\repos\SignalRDemo\obj\Debug\net7.0\SignalRDemo.genruntimeconfig.cache
 C:\Users\f.fracascia\repos\SignalRDemo\obj\Debug\net7.0\ref\SignalRDemo.dll
+C:\Users\f.fracascia\repos\SignalRDemo\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\f.fracascia\repos\SignalRDemo\bin\Debug\net7.0\Microsoft.Web.Helpers.dll
+C:\Users\f.fracascia\repos\SignalRDemo\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\f.fracascia\repos\SignalRDemo\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\f.fracascia\repos\SignalRDemo\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\f.fracascia\repos\SignalRDemo\bin\Debug\net7.0\System.Web.WebPages.dll
+C:\Users\f.fracascia\repos\SignalRDemo\bin\Debug\net7.0\WebMatrix.Data.dll
+C:\Users\f.fracascia\repos\SignalRDemo\bin\Debug\net7.0\WebMatrix.WebData.dll
+C:\Users\f.fracascia\repos\SignalRDemo\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\f.fracascia\repos\SignalRDemo\obj\Debug\net7.0\SignalRDemo.csproj.CopyComplete

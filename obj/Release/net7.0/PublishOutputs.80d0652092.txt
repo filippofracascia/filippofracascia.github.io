@@ -1,0 +1,7 @@
+C:\Users\f.fracascia\repos\SignalRDemo\obj\Release\net7.0\PubTmp\Out\SignalRDemo.exe
+C:\Users\f.fracascia\repos\SignalRDemo\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\f.fracascia\repos\SignalRDemo\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\f.fracascia\repos\SignalRDemo\obj\Release\net7.0\PubTmp\Out\SignalRDemo.dll
+C:\Users\f.fracascia\repos\SignalRDemo\obj\Release\net7.0\PubTmp\Out\SignalRDemo.deps.json
+C:\Users\f.fracascia\repos\SignalRDemo\obj\Release\net7.0\PubTmp\Out\SignalRDemo.runtimeconfig.json
+C:\Users\f.fracascia\repos\SignalRDemo\obj\Release\net7.0\PubTmp\Out\SignalRDemo.pdb

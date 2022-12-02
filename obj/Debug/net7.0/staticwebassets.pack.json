@@ -21,10 +21,6 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\f.fracascia\\repos\\SignalRDemo\\wwwroot\\js\\three.js",
-      "PackagePath": "staticwebassets\\js\\three.js"
-    },
-    {
       "Id": "C:\\Users\\f.fracascia\\repos\\SignalRDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

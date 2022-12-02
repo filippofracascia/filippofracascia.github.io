@@ -1,19 +1,22 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace SignalRDemo.Pages;
-
-public class PrivacyModel : PageModel
+namespace SignalRDemo.Pages
 {
-    private readonly ILogger<PrivacyModel> _logger;
 
-    public PrivacyModel(ILogger<PrivacyModel> logger)
+    public class PrivacyModel : PageModel
     {
-        _logger = logger;
+        private readonly ILogger<PrivacyModel> _logger;
+
+        public PrivacyModel(ILogger<PrivacyModel> logger)
+        {
+            _logger = logger;
+        }
+
+        public void OnGet()
+        {
+        }
     }
 
-    public void OnGet()
-    {
-    }
 }
 

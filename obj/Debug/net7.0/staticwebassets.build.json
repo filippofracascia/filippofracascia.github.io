@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sOUsfHcbUxQFvwM2Ig32PZbgRw5uscvIn+oXB8m/9yU=",
+  "Hash": "CLDXFIS22vFrwCUG0i1MkRomWSU7c8LKxMBMW/IH1FM=",
   "Source": "SignalRDemo",
   "BasePath": "_content/SignalRDemo",
   "Mode": "Default",
@@ -117,23 +117,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
-    },
-    {
-      "Identity": "C:\\Users\\f.fracascia\\repos\\SignalRDemo\\wwwroot\\js\\three.js",
-      "SourceId": "SignalRDemo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\f.fracascia\\repos\\SignalRDemo\\wwwroot\\",
-      "BasePath": "_content/SignalRDemo",
-      "RelativePath": "js/three.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\three.js"
     },
     {
       "Identity": "C:\\Users\\f.fracascia\\repos\\SignalRDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
